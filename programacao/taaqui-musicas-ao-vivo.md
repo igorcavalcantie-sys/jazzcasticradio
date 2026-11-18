@@ -1,0 +1,93 @@
+# Músicas para o ao vivo (WebDJ da Taaqui)
+
+## O problema
+Na automação, a Taaqui deixa usar a biblioteca dela, que é grande. No **WebDJ** (o programa para entrar ao vivo), as músicas precisam vir de você. Então: de onde tirar, de forma legal e com qualidade?
+
+Há três caminhos, que se combinam. **Comece pelo 1.**
+
+---
+
+## Caminho 1: perguntar à Taaqui (pode resolver tudo)
+
+Antes de baixar qualquer coisa, abra um chamado no suporte com estas perguntas:
+
+1. **O WebDJ consegue acessar a biblioteca musical da plataforma?** (às vezes existe e não está óbvio)
+2. **Existe modo "ao vivo por cima da automação"?** Ou seja: a playlist da biblioteca continua tocando e eu entro só com o microfone nas falas. Em várias plataformas de webradio isso é possível; em outras, o ao vivo substitui tudo.
+3. **Posso montar uma playlist da biblioteca para o horário do Unwind e entrar com o microfone entre as músicas?**
+4. **A licença de direitos autorais (ECAD) do meu plano cobre as músicas que *eu* subo no WebDJ, ou só as da biblioteca?**
+5. **Quais formatos o WebDJ aceita, e qual o limite de armazenamento?**
+
+Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
+
+> **Sobre direitos:** no Brasil, tocar música publicamente, inclusive em webradio, envolve licença do **ECAD**. Comprar uma música te dá direito de *ouvir*, não de *transmitir*. Por isso a pergunta 4 é importante: confirme como isso funciona no seu plano antes de montar o acervo próprio.
+
+---
+
+## Caminho 2: voice tracking ("ao vivo gravado")
+
+É como a maioria das rádios do mundo mantém programas apresentados todo dia sem o locutor estar lá.
+
+**Como funciona:**
+1. Na Taaqui, monte a playlist do programa (ex.: Unwind de quarta) com músicas da **biblioteca**.
+2. Grave suas falas como arquivos separados (`Unwind_Qua_Fala1.mp3`, `Fala2`…), com 30–90s cada, já sabendo qual música vem antes e depois.
+3. Suba as falas no **painel de áudio** (o mesmo onde ficam spots e vinhetas).
+4. Encaixe as falas entre as músicas da playlist e programe o horário.
+
+**Vantagens:**
+- Usa a biblioteca da Taaqui, sem precisar baixar música.
+- Você grava com calma, refaz o que errar e escolhe a melhor take. **Cada fala é treino de locução.**
+- O Unwind vai ao ar todo dia, mesmo nos dias em que você estiver trabalhando ou cansado.
+
+**Dica para soar ao vivo:** fale do *dia* sem prender a data ("quarta-feira, meio da semana…"), cite a música anterior e a seguinte pelo nome, e grave no mesmo dia ou na véspera.
+
+**Limitação:** não tem interação em tempo real. Por isso o ideal é misturar: voice tracking na maioria dos dias e ao vivo de verdade em 2–3 noites por semana.
+
+---
+
+## Caminho 3: montar um acervo próprio para o WebDJ
+
+### Onde conseguir música de forma legal
+| Fonte | O que é | Observação |
+|---|---|---|
+| **Bandcamp** | compra direta de artistas e selos, MP3/FLAC sem DRM | ótimo para jazz, soul e independentes; o artista recebe a maior parte |
+| **iTunes Store** (app Música no Mac / iTunes no Windows) | compra de faixas em AAC sem DRM | não confunda com o *Apple Music* (assinatura), cujos downloads não servem |
+| **Qobuz / lojas de download em alta qualidade** | compra em FLAC | verifique a disponibilidade da loja de download no Brasil |
+| **Seus CDs** | importar para o computador | qualidade alta, e você já tem o disco |
+| **Domínio público / Creative Commons** (Musopen, Free Music Archive, Jamendo) | música liberada | leia a licença de **cada faixa**; licenças "NC" (não comercial) podem ser restritivas |
+
+### O que NÃO usar
+- **Downloads do Spotify, Deezer, YouTube Music ou Apple Music:** são protegidos (DRM) e só tocam dentro do app.
+- **Conversores "YouTube para MP3":** violam os termos do YouTube, entregam qualidade ruim (dá para ouvir na transmissão) e muitos sites desse tipo espalham vírus.
+
+### Comprar com inteligência (orçamento enxuto)
+Você não precisa de milhares de músicas. Para o ao vivo, **200–300 faixas bem escolhidas** cobrem semanas de programa, porque a automação segue tocando a biblioteca da Taaqui no resto do tempo.
+
+- Compre por **programa**: ~60 faixas para Fora do Jazz, ~60 para Blues de Sexta etc.
+- Priorize faixas que **você tem história para contar**, já que o ao vivo é onde você fala.
+- Faça uma lista de desejos e compre 10–20 por mês.
+
+### Organização das pastas (no Acer)
+```
+Jazzcastic_AoVivo/
+├── 00_Vinhetas/        (abertura, encerramento, meio de programa, ID)
+├── 01_Spots_Chamadas/  (chamadas da rádio, spots de parceiros)
+├── Unwind_Seg_Pedidos/
+├── Unwind_Ter_Disco/
+├── Unwind_Qua_ForaDoJazz/
+├── Unwind_Qui_DNA/
+├── Unwind_Sex_Blues/
+├── Sab_Samba/
+└── Dom_CeuEJazz/
+```
+- Nome dos arquivos: `Artista - Música (Ano).mp3`
+- Formato: **MP3 320 kbps** é o equilíbrio ideal para subir (confirme o que o WebDJ aceita).
+- **Volume igualado:** músicas de épocas diferentes têm volumes muito diferentes (um jazz de 1959 é bem mais baixo que um rock de 2003). Normalize o volume do acervo antes de subir (a função *Loudness Normalization* do Audacity resolve; mire em torno de −14 LUFS). Assim o ouvinte não leva susto de volume.
+
+### Antes de cada ao vivo (checklist)
+- [ ] Playlist do dia montada no WebDJ, na ordem do "relógio" (ver `grade-ao-vivo.md`)
+- [ ] 2 músicas de reserva, caso uma fala se estenda ou alguma faixa dê problema
+- [ ] Vinhetas e chamadas carregadas
+- [ ] Roteiro de tópicos impresso ou aberto no tablet (Galaxy Tab)
+- [ ] Teste de microfone gravado e ouvido no DT 770
+- [ ] Notificações do celular e do computador desligadas
+- [ ] Story das 18h45 publicado

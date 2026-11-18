@@ -31,4 +31,6 @@ Você Sabia? · Um Disco, Uma História · Uma Música Pra Hoje · Fora do Jazz 
 ## Portfólio de locução (meta)
 Demo principal 45–60s. Comerciais PT10/ES3/EN3 · Shows e eventos PT5/ES2/EN2 · Rádio musical PT5/ES2/EN2 · Notícias PT3/ES1/EN1 · Esportes PT3.
 
-Planos detalhados: `instagram/` e `locucao/`.
+Planos detalhados: `instagram/`, `locucao/` (inclui `spots-comerciais.md`) e `programacao/` (grade ao vivo proposta + fluxo de músicas no WebDJ da Taaqui).
+
+
