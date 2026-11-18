@@ -3,26 +3,18 @@
 ## O problema
 Na automação, a Taaqui deixa usar a biblioteca dela, que é grande. No **WebDJ** (o programa para entrar ao vivo), as músicas precisam vir de você. Então: de onde tirar, de forma legal e com qualidade?
 
-Há três caminhos, que se combinam. **Comece pelo 1.**
+**O que já sabemos:**
+- O WebDJ **não acessa** a biblioteca da Taaqui. Para o ao vivo, é preciso baixar e subir as músicas.
 
----
+Os dois caminhos abaixo se combinam.
 
-## Caminho 1: perguntar à Taaqui (pode resolver tudo)
-
-Antes de baixar qualquer coisa, abra um chamado no suporte com estas perguntas:
-
-1. **O WebDJ consegue acessar a biblioteca musical da plataforma?** (às vezes existe e não está óbvio)
-2. **Existe modo "ao vivo por cima da automação"?** Ou seja: a playlist da biblioteca continua tocando e eu entro só com o microfone nas falas. Em várias plataformas de webradio isso é possível; em outras, o ao vivo substitui tudo.
-3. **Posso montar uma playlist da biblioteca para o horário do Unwind e entrar com o microfone entre as músicas?**
-4. **Quais formatos o WebDJ aceita, e qual o limite de armazenamento?**
-
-Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
+**Uma pergunta que ainda vale fazer ao suporte:** existe algum modo de entrar só com o microfone *por cima* da automação, com a playlist da biblioteca continuando a tocar? Se não existir, o Caminho 1 (voice tracking) é o substituto mais próximo.
 
 > **ECAD: resolvido.** As músicas que você sobe e toca no WebDJ durante o ao vivo já ficam cobertas pela Taaqui, sem custo extra (confirmado por você na prática). A escolha da fonte abaixo é, então, questão de **qualidade de áudio e segurança**.
 
 ---
 
-## Caminho 2: voice tracking ("ao vivo gravado")
+## Caminho 1: voice tracking ("ao vivo gravado")
 
 É como a maioria das rádios do mundo mantém programas apresentados todo dia sem o locutor estar lá.
 
@@ -39,11 +31,13 @@ Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
 
 **Dica para soar ao vivo:** fale do *dia* sem prender a data ("quarta-feira, meio da semana…"), cite a música anterior e a seguinte pelo nome, e grave no mesmo dia ou na véspera.
 
-**Limitação:** não tem interação em tempo real. Por isso o ideal é misturar: voice tracking na maioria dos dias e ao vivo de verdade em 2–3 noites por semana.
+**Limitação:** não tem interação em tempo real.
+
+**Por que isso importa ainda mais agora:** como o ao vivo exige baixar e subir tudo, o voice tracking é o jeito de manter o Unwind no ar todo dia sem esse trabalho. Reserve o esforço do WebDJ para as 2–3 noites ao vivo da semana. Por isso o ideal é misturar: voice tracking na maioria dos dias e ao vivo de verdade em 2–3 noites por semana.
 
 ---
 
-## Caminho 3: montar um acervo próprio para o WebDJ
+## Caminho 2: montar um acervo próprio para o WebDJ
 
 ### Onde conseguir música de forma legal
 | Fonte | O que é | Observação |
@@ -57,6 +51,13 @@ Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
 ### O que NÃO usar
 - **Downloads do Spotify, Deezer, YouTube Music ou Apple Music:** são protegidos (DRM) e só tocam dentro do app.
 - **Conversores "YouTube para MP3":** violam os termos do YouTube, entregam qualidade ruim (dá para ouvir na transmissão) e muitos sites desse tipo espalham vírus.
+
+### Trabalhar menos: o acervo é reaproveitável
+Se a cada ao vivo você baixa e sobe tudo do zero, o trabalho nunca acaba. A saída é tratar o acervo como **estoque**:
+- Monte pastas fixas por edição (Blues de Sexta, Fora do Jazz…) e **reaproveite**: uma pasta de ~60 faixas rende muitas semanas trocando a ordem e misturando 3–4 músicas novas.
+- Mantenha no WebDJ o que você mais usa (dentro do limite de armazenamento) e só suba as novidades da semana.
+- Faça as compras/downloads em **lote**, uma vez por mês, e não na véspera de cada programa.
+- Guarde tudo também num HD externo ou na nuvem, para não perder o acervo se o notebook der problema.
 
 ### Comprar com inteligência (orçamento enxuto)
 Você não precisa de milhares de músicas. Para o ao vivo, **200–300 faixas bem escolhidas** cobrem semanas de programa, porque a automação segue tocando a biblioteca da Taaqui no resto do tempo.

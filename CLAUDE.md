@@ -34,4 +34,4 @@ Demo principal 45–60s. Comerciais PT10/ES3/EN3 · Shows e eventos PT5/ES2/EN2 
 Planos detalhados: `instagram/`, `locucao/` (inclui `spots-comerciais.md`) e `programacao/` (grade ao vivo proposta + fluxo de músicas no WebDJ da Taaqui).
 
 ## Taaqui
-A automação usa a biblioteca musical da Taaqui. O ao vivo é feito pelo **WebDJ**, que exige que Igor suba as próprias músicas. Recomendar sempre fontes legais (nunca rippers de YouTube/streaming). ECAD: músicas tocadas no WebDJ ao vivo já são cobertas pela Taaqui, sem custo extra (confirmado por Igor). Não levantar mais essa questão.
+A automação usa a biblioteca musical da Taaqui. O ao vivo é feito pelo **WebDJ**, que **não acessa** a biblioteca da Taaqui (confirmado): Igor precisa baixar e subir as músicas. Voice tracking na automação é a alternativa para dias sem ao vivo. Recomendar sempre fontes legais (nunca rippers de YouTube/streaming). ECAD: músicas tocadas no WebDJ ao vivo já são cobertas pela Taaqui, sem custo extra (confirmado por Igor). Não levantar mais essa questão.
