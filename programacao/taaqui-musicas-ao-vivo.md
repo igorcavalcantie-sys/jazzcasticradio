@@ -14,12 +14,11 @@ Antes de baixar qualquer coisa, abra um chamado no suporte com estas perguntas:
 1. **O WebDJ consegue acessar a biblioteca musical da plataforma?** (às vezes existe e não está óbvio)
 2. **Existe modo "ao vivo por cima da automação"?** Ou seja: a playlist da biblioteca continua tocando e eu entro só com o microfone nas falas. Em várias plataformas de webradio isso é possível; em outras, o ao vivo substitui tudo.
 3. **Posso montar uma playlist da biblioteca para o horário do Unwind e entrar com o microfone entre as músicas?**
-4. **A licença de direitos autorais (ECAD) do meu plano cobre as músicas que *eu* subo no WebDJ, ou só as da biblioteca?**
-5. **Quais formatos o WebDJ aceita, e qual o limite de armazenamento?**
+4. **Quais formatos o WebDJ aceita, e qual o limite de armazenamento?**
 
 Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
 
-> **Sobre direitos:** no Brasil, tocar música publicamente, inclusive em webradio, envolve licença do **ECAD**. Comprar uma música te dá direito de *ouvir*, não de *transmitir*. Por isso a pergunta 4 é importante: confirme como isso funciona no seu plano antes de montar o acervo próprio.
+> **ECAD: resolvido.** As músicas que você sobe e toca no WebDJ durante o ao vivo já ficam cobertas pela Taaqui, sem custo extra (confirmado por você na prática). A escolha da fonte abaixo é, então, questão de **qualidade de áudio e segurança**.
 
 ---
 
@@ -53,7 +52,7 @@ Se a resposta da 2 ou da 3 for "sim", você quase não precisa baixar música.
 | **iTunes Store** (app Música no Mac / iTunes no Windows) | compra de faixas em AAC sem DRM | não confunda com o *Apple Music* (assinatura), cujos downloads não servem |
 | **Qobuz / lojas de download em alta qualidade** | compra em FLAC | verifique a disponibilidade da loja de download no Brasil |
 | **Seus CDs** | importar para o computador | qualidade alta, e você já tem o disco |
-| **Domínio público / Creative Commons** (Musopen, Free Music Archive, Jamendo) | música liberada | leia a licença de **cada faixa**; licenças "NC" (não comercial) podem ser restritivas |
+| **Domínio público / Creative Commons** (Musopen, Free Music Archive, Jamendo) | música liberada | bom para trilhas de fundo e descobertas |
 
 ### O que NÃO usar
 - **Downloads do Spotify, Deezer, YouTube Music ou Apple Music:** são protegidos (DRM) e só tocam dentro do app.
