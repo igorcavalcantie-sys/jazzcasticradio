@@ -8,7 +8,7 @@ Na automação, a Taaqui deixa usar a biblioteca dela, que é grande. No **WebDJ
 
 Os dois caminhos abaixo se combinam.
 
-**Uma pergunta que ainda vale fazer ao suporte:** existe algum modo de entrar só com o microfone *por cima* da automação, com a playlist da biblioteca continuando a tocar? Se não existir, o Caminho 1 (voice tracking) é o substituto mais próximo.
+- Também **não existe** modo de entrar só com o microfone por cima da automação (confirmado com o suporte). Por isso o Caminho 1 (voice tracking) é a alternativa para os dias sem ao vivo.
 
 > **ECAD: resolvido.** As músicas que você sobe e toca no WebDJ durante o ao vivo já ficam cobertas pela Taaqui, sem custo extra (confirmado por você na prática). A escolha da fonte abaixo é, então, questão de **qualidade de áudio e segurança**.
 
