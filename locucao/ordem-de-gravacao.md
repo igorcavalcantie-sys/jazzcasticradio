@@ -4,10 +4,10 @@
 
 ## Sessão 1 — Identidade no ar (~45 min)
 - [ ] 5s de silêncio do ambiente (teste de ruído)
-- [ ] JZ 2 — Chamada do Unwind (`spots-comerciais.md`)
-- [ ] JZ 1 — Institucional da rádio (`spots-comerciais.md`)
+- [ ] Chamada do Unwind (`spots-comerciais.md`)
+- [ ] Institucional da Jazzcastic (`spots-comerciais.md`)
 - [ ] Abertura do Unwind (`roteiros-onda-1.md`, #4)
-→ Subir JZ1 e JZ2 no painel de áudio da Taaqui e colocar na automação.
+→ Subir a Chamada do Unwind e a Institucional no painel de áudio da Taaqui e colocar na automação.
 
 ## Sessão 2 — Calibragem de energia (~45 min)
 Mesmo microfone, mesma distância, mesmo ganho em todas:
