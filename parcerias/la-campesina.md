@@ -8,9 +8,9 @@
 
 ## Mensagem (WhatsApp)
 
-> Oi, [Nome], tudo bem? Aqui é o Igor Cavalcanti. A gente se conheceu no mês passado, quando jantei no La Campesina com a minha esposa. Conversamos sobre o jazz que estava tocando e eu comentei da minha web rádio, a Jazzcastic FM 88.2.
+> Oi, [Nome], tudo bem? Aqui é o Igor Cavalcanti, sou locutor. A gente se conheceu no mês passado, quando jantei no La Campesina com a minha esposa. Conversamos sobre o jazz que estava tocando e eu comentei da minha web rádio, a Jazzcastic FM 88.2.
 >
-> Queria retomar aquela ideia: gravo um spot de rádio para o La Campesina, sem custo nenhum, pra vocês usarem onde quiserem (Instagram, WhatsApp, onde fizer sentido). E ele também entra na programação da Jazzcastic.
+> Queria retomar aquela ideia: eu mesmo escrevo e gravo um spot de rádio para o La Campesina, sem custo nenhum, pra vocês usarem onde quiserem (Instagram, WhatsApp, onde fizer sentido). E ele também entra na programação da Jazzcastic.
 >
 > Se topar, me conta em poucas linhas o que vocês gostariam de destacar (um prato, uma noite especial, o clima da casa...) que eu escrevo o texto e te mando pra aprovar antes de gravar.
 >
