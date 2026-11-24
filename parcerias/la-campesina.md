@@ -4,7 +4,7 @@
 - Igor jantou lá com a esposa em out/2026; estava tocando jazz.
 - Conheceu o gerente, pegou o cartão.
 - Ofereceu: compartilhar a Jazzcastic + gravar um spot **sem custo**, para usarem onde quiserem.
-- Status: **mensagem ainda não enviada.**
+- Status: **mensagem enviada em 24/11/2026.** Aguardando resposta. Se não responder até ~30/11, mandar um follow-up curto.
 
 ## Mensagem (WhatsApp)
 
